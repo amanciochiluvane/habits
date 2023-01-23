@@ -113,3 +113,22 @@ input:checked {
     display: none;
   }
 }
+footer{
+  font-family: "Roboto Mono";
+  display: flex;
+  width: 100vw;
+  color: #8b5cf6;
+}
+footer>p{
+  margin: auto;
+  margin-bottom: 15px;
+ font-size: 10px;
+  line-height: 125%;
+}
+a{
+  color: #8b5cf6;
+  text-decoration: none;
+}
+a:hover{
+ color: #a78bfa; 
+}
